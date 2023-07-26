@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373172055575",
+    "project_id": "utopian-soccer",
+    "storage_bucket": "utopian-soccer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373172055575:android:ceb5816791f87b503db652",
+        "android_client_info": {
+          "package_name": "com.example.utopiansoccer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373172055575-i20nchgtgq3rnq9fk4k7nb287msvsf6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNP0T1ThiQSWFWZMJSZ-0xXLErgaJl1IY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373172055575-i20nchgtgq3rnq9fk4k7nb287msvsf6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
